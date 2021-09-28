@@ -6,6 +6,21 @@
 - 📫 Anda bisa menghubungi saya dikontak [WA](https://wa.me/6285740225212).
 - Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/syamme)ku ya.
 
+
+<p align="left">
+<a href="https://github.com/samery46">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samery46&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samery46&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Hubungi Saya :
+- <a href="https://linkedin.com/in/syamme/">LinkedIn</a>
+- <a href="https://www.instagram.com/sam_ery">Instagram</a>
+- <a href="https://twitter/Sam_Ery">Twitter</a>
+- <a href="https://t.me/Sam_Ery">Telegram</a>
+- syamme@ymail.com
+
 <!--
 **samery46/samery46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
