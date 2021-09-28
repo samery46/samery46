@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, 👋
+
+- 🔭 Saya saat ini sedang bekerja sebagai IT Technical Support Spv. di [PT. Tirta Sukses Perkasa](http://www.club.co.id/).
+- 🌱 Saya sedang belajar Framework Laravel 8x dan Python.
+- 👯 Saya ingin berkolaborasi dalam Front-End Web Development dan Data Scientist.
+- 📫 Anda bisa menghubungi saya dikontak [WA](wa.me/6285740225212).
+- Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/syamme)ku ya.
 
 <!--
 **samery46/samery46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
