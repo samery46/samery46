@@ -1,7 +1,7 @@
 ### Hi, 👋
 
 - 🔭 Saya saat ini sedang bekerja sebagai IT Technical Support Spv. di [PT. Tirta Sukses Perkasa](http://www.club.co.id/).
-- 🌱 Saya sedang belajar Framework Laravel 8x dan Python.
+- 🌱 Saya sedang belajar Framework Laravel 10x dan Python.
 - 👯 Saya ingin berkolaborasi dalam Front-End Web Development dan Data Scientist.
 - 📫 Anda bisa menghubungi saya dikontak [WA](https://wa.me/6285290393699).
 - Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/syamme)ku ya.
