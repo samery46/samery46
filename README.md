@@ -19,6 +19,7 @@
 - <a href="https://www.instagram.com/sam_ery">Instagram</a>
 - <a href="https://twitter/Sam_Ery">Twitter</a>
 - <a href="https://t.me/Sam_Ery">Telegram</a>
+- <a href="https://www.threads.net/@sam_ery">Threads</a>
 - syamme@ymail.com
 
 <!--
